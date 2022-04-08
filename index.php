@@ -88,7 +88,7 @@
 									<div class="slider-text-inner js-fullheight">
 										<div class="desc">
 											<h1>Salut, je suis en recherche de stage</h1>
-												<p><a href="images/cv.pdf" class="btn btn-primary btn-learn">Télécharger CV <i class="icon-download4"></i></a></p>
+												<p><a href="images/cvn.pdf" class="btn btn-primary btn-learn">Télécharger CV <i class="icon-download4"></i></a></p>
 											</div>
 									</div>
 								</div>
@@ -103,7 +103,7 @@
 									<div class="slider-text-inner">
 										<div class="desc">
 											<h1>Je suis un<br>Développeur Web Junior 1.0</h1>
-												<p><a href="images/cv.pdf" class="btn btn-primary btn-learn">Télécharger CV <i class="icon-download4"></i></a></p>
+												<p><a href="images/cvn.pdf" class="btn btn-primary btn-learn">Télécharger CV <i class="icon-download4"></i></a></p>
 											</div>
 									</div>
 								</div>
@@ -159,7 +159,7 @@
 								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 									<div class="hire">
 										<h2>Je suis heureux de vous apprendre que des projets ont été bien menés</h2>
-										<a href="images/cv.pdf" class="btn-hire">Engagez-moi</a>
+										<a href="images/cvn.pdf" class="btn-hire">Engagez-moi</a>
 									</div>
 								</div>
 							</div>
