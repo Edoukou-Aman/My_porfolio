@@ -1,67 +1,67 @@
 <?php
 ?>
-<!DOCTYPE HTML>
-<html lang="fr">
+    <!DOCTYPE HTML>
+    <html lang="fr">
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Edoukou Aman</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <meta property="og:title" content="" />
-    <meta property="og:image" content="" />
-    <meta property="og:url" content="" />
-    <meta property="og:site_name" content="" />
-    <meta property="og:description" content="" />
-    <meta name="twitter:title" content="" />
-    <meta name="twitter:image" content="" />
-    <meta name="twitter:url" content="" />
-    <meta name="twitter:card" content="" />
-    <link rel="shortcut icon" href="favicon.ico">
-    <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/icomoon.css">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/flexslider.css">
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/style.css">
-	<link rel="icon" type="image/jpg" href="images/logo.jpg">
-    <script src="js/modernizr-2.6.2.min.js"></script>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Edoukou Aman</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="author" content="" />
+        <meta property="og:title" content="" />
+        <meta property="og:image" content="" />
+        <meta property="og:url" content="" />
+        <meta property="og:site_name" content="" />
+        <meta property="og:description" content="" />
+        <meta name="twitter:title" content="" />
+        <meta name="twitter:image" content="" />
+        <meta name="twitter:url" content="" />
+        <meta name="twitter:card" content="" />
+        <link rel="shortcut icon" href="favicon.ico">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/icomoon.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/flexslider.css">
+        <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="icon" type="image/jpg" href="images/logo.jpg">
+        <script src="js/modernizr-2.6.2.min.js"></script>
 
-</head>
+    </head>
 
-<body>
-    <div id="colorlib-page">
-        <div class="container-wrap">
-            <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-            <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
-                <div class="text-center">
-                    <div class="author-img pt-5" style="background-image: url(images/mw.jpg);"></div>
-                    <h1 id="colorlib-logo"><a href="index.php">Edoukou Aman</a></h1>
-                    
-                </div>
-                <nav id="colorlib-main-menu" role="navigation" class="navbar">
-                    <div id="navbar" class="collapse">
-                        <ul>
-                            <li class="active"><a href="#" data-nav-section="home">Accueil</a></li>
-                            <li><a href="#" data-nav-section="about">Présentation</a></li>
-                            <li><a href="#" data-nav-section="services">Activités</a></li>
-                            <li><a href="#" data-nav-section="skills">Spécialités</a></li>
-                            <li><a href="#" data-nav-section="education">Education</a></li>
-                            <li><a href="#" data-nav-section="experience">Expérience Professionelle</a></li>
-                            <li><a href="#" data-nav-section="contact">Contact</a></li>
-                        </ul>
+    <body>
+        <div id="colorlib-page">
+            <div class="container-wrap">
+                <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+                <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
+                    <div class="text-center">
+                        <div class="author-img pt-5" style="background-image: url(images/mw.jpg);"></div>
+                        <h1 id="colorlib-logo"><a href="index.php">Edoukou Aman</a></h1>
+
                     </div>
-                </nav>
+                    <nav id="colorlib-main-menu" role="navigation" class="navbar">
+                        <div id="navbar" class="collapse">
+                            <ul>
+                                <li class="active"><a href="#" data-nav-section="home">Accueil</a></li>
+                                <li><a href="#" data-nav-section="about">Présentation</a></li>
+                                <li><a href="#" data-nav-section="services">Activités</a></li>
+                                <li><a href="#" data-nav-section="skills">Spécialités</a></li>
+                                <li><a href="#" data-nav-section="education">Education</a></li>
+                                <li><a href="#" data-nav-section="experience">Expérience Professionelle</a></li>
+                                <li><a href="#" data-nav-section="contact">Contact</a></li>
+                            </ul>
+                        </div>
+                    </nav>
 
-                <div class="colorlib-footer">
-                    <p><small>&copy;
+                    <div class="colorlib-footer">
+                        <p><small>&copy;
 		Copyright <script>document.write(new Date().getFullYear());</script>
 		<br>  <i class="icon-heart" aria-hidden="true"></i> 
 		by Edoukou Aman
@@ -87,8 +87,8 @@
 								<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 									<div class="slider-text-inner js-fullheight">
 										<div class="desc">
-											<h1>Salut, je suis en recherche de stage</h1>
-												<p><a href="images/cvn.pdf" class="btn btn-primary btn-learn">Télécharger CV <i class="icon-download4"></i></a></p>
+											<h1>Salut, je suis en recherche d'alternance</h1>
+												<p><a href="images/CVA_AMAN.pdf" class="btn btn-primary btn-learn">Télécharger CV <i class="icon-download4"></i></a></p>
 											</div>
 									</div>
 								</div>
@@ -103,7 +103,7 @@
 									<div class="slider-text-inner">
 										<div class="desc">
 											<h1>Je suis un<br>Développeur Web Junior 1.0</h1>
-												<p><a href="images/cvn.pdf" class="btn btn-primary btn-learn">Télécharger CV <i class="icon-download4"></i></a></p>
+												<p><a href="images/CVA_AMAN.pdf" class="btn btn-primary btn-learn">Télécharger CV <i class="icon-download4"></i></a></p>
 											</div>
 									</div>
 								</div>
@@ -124,9 +124,12 @@
 										<span class="heading-meta">Présentation</span>
 										<h2 class="colorlib-heading">Qui suis-je?</h2>
 										<p><strong>Salut, je suis Edoukou AMAN</strong> <br>Né le 16 Juillet et j'ai 21 ans. Je vis à Rennes dans la préfecture de la région de Bretagne en France.</p>
-										<p>Je suis étudiant développeur, c'est-à-dire que je crée des sites et applications web. Je réalise également des projets infographies, des affiches créatives et publicitaires. J'aime particulièrement nager, écouter de la musique, faire du bénévolat et mener des interviews. Aussi, j'aime rencontrer de nouvelles personnes, essayer de les aider à vivre des expériences passionnantes et voyager souvent quand j'ai le temps.</p>
-										<p>Jeune étudiant en MIAGE (Formation d’une double compétence en Informatique et en Science de Gestion). J’ai des notions en gestion de projet et en développement d’application. Développeur web méticuleux, actif et motivé à améliorer mes compétences dans le but de faire évoluer ma carrière professionnelle au profit de mon entreprise. Mon objectif professionnel est de créer ma propre boîte informatique afin de contribuer à la mise en place de solutions informatique adaptables et fiables à l’échelle nationale et internationale. Aminé par le besoin de toujours faire mieux, je suis prêt à relever de nouveaux challenges.</p>
-									</div>
+										<p> Étudiant en Licence MIAGE (Méthodes Informatiques Appliquées à la Gestion de l’Entreprise), je souhaite intégrer dès la rentrée prochaine un cursus en Bachelor Développement Web Full Stack et Mobile. Pour être mieux préparé au métier de Développeur Web Fullstack et Mobile, j’ai choisi la voie de l’alternance. C’est pourquoi je suis à la recherche d’une entreprise qui me permettrait d’allier enseignement théorique et formation pratique durant un an pour la rentrée en septembre 2022. 
+                                            Ayant acquis dans le cadre de mes études, une bonne maîtrise des technologies et langages de programmation Web suivant : PHP7, SYMFONY, AJAX, BOOTSTRAP, VUE JS, ANGULAR, JAVASCRIPT et d’application JAVA ainsi que de solides compétences dans la gestion (des systèmes d’information, la comptabilité, l’analyse de donnée, la gestion financière…). 
+                                            Grâce à mon stage actuel en tant que Développeur Web auprès de CYPE France, je connais les exigences et les capacités requises pour exercer les fonctions de Développeur Web. Sérieux et motivé, je possède des qualités d’adaptation indispensables à la réussite d’une formation en alternance. Aminé par le besoin de toujours faire mieux, je suis prêt à relever de nouveaux challenges.</p>
+                                        <p>Je réalise également des projets infographies, des affiches créatives et publicitaires. J'aime particulièrement nager, écouter de la musique, faire du bénévolat et mener des interviews. Aussi, j'aime rencontrer de nouvelles personnes, essayer de les aider à vivre des expériences passionnantes et voyager souvent quand j'ai le temps.</p>
+
+                                        </div>
 								</div>
 							</div>
 							<div class="row">
@@ -159,7 +162,7 @@
 								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 									<div class="hire">
 										<h2>Je suis heureux de vous apprendre que des projets ont été bien menés</h2>
-										<a href="images/cvn.pdf" class="btn-hire">Engagez-moi</a>
+										<a href="images/CVA_AMAN.pdf" class="btn-hire">Engagez-moi</a>
 									</div>
 								</div>
 							</div>
@@ -278,7 +281,7 @@
 					<div class="row">
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
-								<h3>Packs Office</h3>
+								<h3>Packs Office (Word, Excel, Power Point)</h3>
 								<div class="progress">
 									<div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
 									aria-valuemin="0" aria-valuemax="100" style="width:90%">
@@ -289,11 +292,11 @@
 						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
-								<h3>Packs Adobe</h3>
+								<h3>Packs Adobe (Photospho, Illustrator)</h3>
 								<div class="progress">
 									<div class="progress-bar color-2" role="progressbar" aria-valuenow="70"
-									aria-valuemin="0" aria-valuemax="100" style="width:70%">
-									<span>70%</span>
+									aria-valuemin="0" aria-valuemax="100" style="width:80%">
+									<span>80%</span>
 									</div>
 								</div>
 							</div>
@@ -358,7 +361,7 @@
 						<figure class="shadow"><img src="images/vue_agul.jpg"/></figure>
 						<figure class="shadow"><img src="images/webstvs.jpg"/></figure>
 						<figure class="shadow"><img src="images/windmac.jpg"/></figure>
-						<figure class="shadow"><img src="images/stage.jpeg"/></figure>
+						<figure class="shadow"><img src="images/alternance.png"/></figure>
 					</div>
 				</div>
 			</section>
@@ -376,6 +379,49 @@
 							<div class="fancy-collapse-panel">
 								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 									
+
+                                    <div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="headingThree">
+											<h4 class="panel-title">
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">Bachelor en Développement<br> Ecole d'Ingénierie SUP DE VINCI à Rennes
+												</a>
+											</h4>
+										</div>
+										<div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+											<div class="panel-body">
+												<table class="table">
+													<tr>
+														<td>2022 - En cours</td>
+														<td> Bachelor en développement</td>
+													</tr>
+													<tr>
+														<td>Front-End : HTML / CSS / PHP avancé </td>
+                                                        <td>Mise en situation développement côté utilisateur</td>
+													</tr>
+													<tr>
+														<td>Back-End : NodeJs / JAVA / C# / Unity</td>
+														<td>Développement côté serveur</td>
+													</tr>
+													<tr>
+														<td>Gestion de base de donnée </td>
+														<td>Gestion des versions de développement : Github / Gitlab</td>
+													</tr>
+													<tr>
+														<td>Mobile : IOS (Swift) / Android (Kotlin) </td>
+														<td></td>
+													</tr>
+													<tr>
+														<td>Réseaux - Projet professionnel collectif - Communication professionelle </td>
+														<td></td>
+													</tr>
+													<tr>
+														<td></td>
+														<td></td>
+													</tr>
+											</table>
+										</div>
+									</div>
+									</div>
 									<div class="panel panel-default">
 										<div class="panel-heading" role="tab" id="headingThree">
 											<h4 class="panel-title">
@@ -583,20 +629,47 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="timeline-centered">
-								<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+								<article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
 									<div class="timeline-entry-inner">
-
-									<div class="timeline-icon color-1">
+									<div class="timeline-icon color-4">
 										<i class="icon-pen2"></i>
 									</div>
-
 									<div class="timeline-label">
-										<h2><a href="#">Développeur web (Innov'Way - Freelance)</a> <span>Fév 2019 - Now</span></h2>
-										<p></p>
+										<h2><a href="#">Stagiaire Développeur Web (CYPE FRANCE)</a> <span>Avril 2022 - Juin 2022</span></h2>
+										<p>Création pour CYPE FRANCE de site entreprise et support technique au client <br>
+                                            Méthodologie Agile <br>
+                                            Github - JIRA <br>
+                                            Technologie : Bootstrap - WordPress - PHP (Symfony) - Mysql
+                                        </p>
 									</div>
 									</div>
 								</article>
-
+                                <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+									<div class="timeline-entry-inner">
+										<div class="timeline-icon color-2">
+											<i class="icon-pen2"></i>
+										</div>
+										<div class="timeline-label">
+											<h2><a href="#">Développeur web (Innov'Way - Freelance)</a> <span>Mars 2019 - Now</span></h2>
+											<p>Projet 1 : Conception du site web (3 mois)
+                                                - Analyse, réalisation du développement Front-End
+                                                - Garantir une bonne ergonomie et une navigation optimale du site
+                                                - Assurer l'intégration des maquettes et contribuer aux corrections nécessaires aux dernières évolutions technologies <br>
+                                                Technologie : HTML5, CSS3, SASS, VUE JS, PHP (Symfony), NodeJs
+                                                <br>
+                                                Projet 2 : Application Web d'un système de gestion de courier (5 mois)
+                                                - Analyse, réalisation du développement Front-End
+                                                - Collaborer avec l'équipe Back-end pour la mise en page des données récupérer 
+                                                - Garantir une bonne ergonomie et une navigation optimale du site <br>
+                                                Technologie : HTML5, CSS3 (Bootstrap), ANGULAR, SASS, SQL, PHP, GITHUB, GIT, JS
+                                                <br>
+                                                Projet 3 : Application Web d'un système d'archivage numérique (5 mois)
+                                                - Analyse, réalisation du développement Front-End
+                                                - Garantir l’accessibilité du site grâce au respect des normes W3C <br>
+                                                Technologie : HTML5, CSS3, SASS, VUE JS</p>
+										</div>
+									</div>
+								</article>
 
 
 								<article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
@@ -607,9 +680,9 @@
 									<div class="timeline-label">
 										<h2><a href="#">Développeur web (Projet de fin d'année)</a> <span>Jan 2021 - Mars 2021</span></h2>
 										<p>Etape du projet : étude, conception, réalisation, tests, déploiement <br>
-											Développement Web (Vue js, Php, Jquery, Ajax) <br>
-											Méthodologie Agile <br>
-											Github</p>
+                                            Développement Web (Vue js, Php, Jquery, Ajax) <br>
+                                            Méthodologie Agile - Github
+                                            </p>
 									</div>
 									</div>
 								</article>
@@ -621,40 +694,33 @@
 									</div>
 									<div class="timeline-label">
 										<h2><a href="#">Chef de projet Web </a> <span>Oct 2019 - Déc 2019</span></h2>
-										<p>Création du site web et d'une application web pour un système de parrainage de la journée d'intégration de la filière Miage à l'UFHB de Cocody
-											<br>
-											- Élaboration du cahier de charge <br>
-											- Répartition des tâches aux différents développeurs <br>
-											- Supervision de l'avancement du projet
+										<p>Création du site web et d'une application web pour un système de parrainage de la journée d'intégration de la filière Miage à l'UFHB de Cocody <br>
+                                            - Élaboration du cahier de charge
+                                            - Répartition des tâches aux différents développeurs 
+                                            - Supervision de l'avancement du projet <br>
+                                            Technologie : JIRA, ANGULAR, PHP, SQL, JS (NodeJs), BOOTSTRAP, JAVA (SprintBoot)
 										</p>
 									</div>
 									</div>
 								</article>
-
-
-								<article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                                <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
 									<div class="timeline-entry-inner">
-										<div class="timeline-icon color-2">
-											<i class="icon-pen2"></i>
-										</div>
-										<div class="timeline-label">
-											<h2><a href="#">Développeur web</a> <span>Mars 2019 - Mai 2021</span></h2>
-											<p>Projet 1 : Conception du site web (3 mois) <br>
-												- Analyse, réalisation du développement Front-End <br>
-												- Garantir une bonne ergonomie et une navigation optimale du site <br>
-												- Assurer l'intégration des maquettes et contribuer aux corrections nécessaires aux dernières évolutions technologies <br>
-
-												Projet 2 : Application Web d'un système de gestion de courier (5 mois) <br>
-												- Analyse, réalisation du développement Front-End <br>
-												- Collaborer avec l'équipe Back-end pour la mise en page des données récupérer <br>
-												- Garantir une bonne ergonomie et une navigation optimale du site <br>
-
-												Projet 3 : Application Web d'un système d'archivage numérique (5 mois) <br>
-												- Analyse, réalisation du développement Front-End <br>
-												- Garantir l’accessibilité du site grâce au respect des normes W3C</p>
-										</div>
+									<div class="timeline-icon color-4">
+										<i class="icon-pen2"></i>
+									</div>
+									<div class="timeline-label">
+										<h2><a href="#">Développeur web (Projet académique)</a> <span></span></h2>
+										<p>
+                                            Site d'événement (2019) : https://edoukou-aman.github.io/projetHoliday/ <br>
+                                            Quiz en JS (2020) : https://edoukou-aman.github.io/Quiz/ <br>
+                                            Projet DSB (2020) : https://edoukou-aman.github.io/Projet_DSB/ 
+                                        </p>
+									</div>
 									</div>
 								</article>
+
+
+								
 
 								<article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
 									<div class="timeline-entry-inner">
@@ -684,7 +750,7 @@
 									<i class="icon-map"></i>
 								</div>
 								<div class="colorlib-text">
-									<p>04 Rue Yann Sohier, 35700 Rennes</p>
+									<p>Mobilité : Toute la France</p>
 								</div>
 							</div>
 
@@ -693,7 +759,6 @@
 									<i class="icon-phone"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="tel://">+22589764293</a></p>
 									<p><a href="tel://">+33764713209</a></p>
 								</div>
 							</div>
