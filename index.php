@@ -11,6 +11,7 @@
         <meta name="description" content="" />
         <meta name="keywords" content="" />
         <meta name="author" content="" />
+        <meta name="author" content="" />
         <meta property="og:title" content="" />
         <meta property="og:image" content="" />
         <meta property="og:url" content="" />
@@ -123,12 +124,11 @@
 									<div class="about-desc">
 										<span class="heading-meta">Présentation</span>
 										<h2 class="colorlib-heading">Qui suis-je?</h2>
-										<p><strong>Salut, je suis Edoukou AMAN</strong> <br>Né le 16 Juillet et j'ai 21 ans. Je vis à Rennes dans la région de Bretagne en France.</p>
-										<p> Étudiant en Licence MIAGE (Méthodes Informatiques Appliquées à la Gestion de l’Entreprise), je souhaite intégrer dès la rentrée prochaine un cursus en Bachelor Développement Web Full Stack et Mobile. Pour être mieux préparé au métier de Développeur Web Fullstack et Mobile, j’ai choisi la voie de l’alternance. C’est pourquoi je suis à la recherche d’une entreprise qui me permettrait d’allier enseignement théorique et formation pratique durant un an pour la rentrée en septembre 2022. 
+										<p><strong>Salut, je suis Edoukou AMAN</strong> <br>Né le 16 Juillet et j'ai <script>document.write((new Date().getFullYear())-2000);</script> ans. Je vis à Rennes dans la région de Bretagne en France.</p>
+										<p> Étudiant en Licence MIAGE (Méthodes Informatiques Appliquées à la Gestion de l’Entreprise) et en Bachelor Développement Web et Mobile en alternance, je souhaite intégrer dès la rentrée prochaine un Master en MIAGE à l'Université de Rennes 1. Pour être mieux préparé au métier de Développement Informatique, j’ai choisi la voie de l’alternance. C’est pourquoi je suis à la recherche d’une entreprise qui me permettrait d’allier enseignement théorique et formation pratique durant deux ans pour la rentrée en septembre 2023.
                                             Ayant acquis dans le cadre de mes études, une bonne maîtrise des technologies et langages de programmation Web suivant : PHP7, SYMFONY, AJAX, BOOTSTRAP, VUE JS, ANGULAR, JAVASCRIPT et d’application JAVA ainsi que de solides compétences dans la gestion (des systèmes d’information, la comptabilité, l’analyse de donnée, la gestion financière…). 
-                                            Grâce à mon stage actuel en tant que Développeur Web auprès de CYPE France, je connais les exigences et les capacités requises pour exercer les fonctions de Développeur Web. Sérieux et motivé, je possède des qualités d’adaptation indispensables à la réussite d’une formation en alternance. Aminé par le besoin de toujours faire mieux, je suis prêt à relever de nouveaux challenges.</p>
-                                        <p>Je réalise également des projets infographies, des affiches créatives et publicitaires. J'aime particulièrement nager, écouter de la musique, faire du bénévolat et mener des interviews. Aussi, j'aime rencontrer de nouvelles personnes, essayer de les aider à vivre des expériences passionnantes et voyager souvent quand j'ai le temps.</p>
-
+                                            Grâce à mon alternance actuel en tant que Développeur Web FullStack et en charge du pôle Informatique auprès de CYPE France, je connais les exigences et les capacités requises pour exercer les fonctions de Développeur. Sérieux et motivé, je possède des qualités d’adaptation indispensables à la réussite d’une formation en alternance. Aminé par le besoin de toujours faire mieux, je suis prêt à relever de nouveaux challenges.</p>
+                                        <p>Je réalise également des projets infographies, des affiches créatives et publicitaires. J'aime particulièrement nager, écouter de la musique, faire du bénévolat et mener des interviews. Aussi, j'aime rencontrer de nouvelles personnes, pour apprendre à de leur expérience et/ou essayer de les aider à vivre des expériences passionnantes et voyager souvent quand j'ai le temps.</p>
                                         </div>
 								</div>
 							</div>
@@ -383,7 +383,7 @@
                                     <div class="panel panel-default">
 										<div class="panel-heading" role="tab" id="headingThree">
 											<h4 class="panel-title">
-												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">Bachelor en Développement<br> Ecole d'Ingénierie SUP DE VINCI à Rennes
+												<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">Bachelor en Développement (Alternance)<br> Ecole d'Ingénierie SUP DE VINCI à Rennes
 												</a>
 											</h4>
 										</div>
@@ -629,6 +629,25 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="timeline-centered">
+                                <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                    <div class="timeline-entry-inner">
+                                        <div class="timeline-icon color-1">
+                                            <i class="icon-pen2"></i>
+                                        </div>
+                                        <div class="timeline-label">
+                                            <h2><a href="#">Alternant Développeur Fullstack & Responsable TIC </a> <span>Sept 2022 - Sept 2023</span></h2>
+                                            <p> Missions :<br>
+                                                - Création de plateforme (Coworking : Réservation en ligne, Boutique en ligne)
+                                                - Appui à la stratégie marketing de la promotion des produits et plateforme en ligne
+                                                - Etudes et numérisation du processus de formation QUALIOPI de l'entreprise
+                                                - Numérisation et support informatique divers dans l'entreprise
+                                                <br>
+                                                Gestion : TRELLO, Zendesk, JIRA, CONFLUENCE, GITHUB
+                                                Technologie : VUE JS, ANGULAR, PHP, SQL, JS (NodeJs), BOOTSTRAP, LARAVEL
+                                            </p>
+                                        </div>
+                                    </div>
+                                </article>
 								<article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
 									<div class="timeline-entry-inner">
 									<div class="timeline-icon color-4">
@@ -638,7 +657,7 @@
 										<h2><a href="#">Stagiaire Développeur Web (CYPE FRANCE)</a> <span>Avril 2022 - Juin 2022</span></h2>
 										<p>Création pour CYPE FRANCE de site entreprise et support technique au client <br>
                                             Méthodologie Agile <br>
-                                            Github - JIRA <br>
+                                            Gestion : Github - JIRA <br>
                                             Technologie : Bootstrap - WordPress - PHP (Symfony) - Mysql
                                         </p>
 									</div>
@@ -705,7 +724,7 @@
 								</article>
                                 <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
 									<div class="timeline-entry-inner">
-									<div class="timeline-icon color-4">
+									<div class="timeline-icon color-1">
 										<i class="icon-pen2"></i>
 									</div>
 									<div class="timeline-label">
