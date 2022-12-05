@@ -1,4 +1,19 @@
 <?php
+$msg = "";
+if (isset($_POST["submit"])) {
+    $recaptchaResponse = $_POST["g-recaptcha-reponse"];
+    $_SERVE ="";
+    $userIp = $_SERVE["REMOTE_ADDR"];
+    $request = "https://www.google.com/recaptcha/api/siteverify?secret=6LcviAUhAAAAAI6cnRWTtieG0QCwPRABki1zAd9Y&reponse={$recaptchaResponse}&remoteip={userIp}";
+
+    $content = file_get_contents($request);
+    $json = json_decode($content);
+    if ($json->success = "true") {
+        $msg = "";
+    } else {
+        $msg = "Recaptcha échoué";
+    }
+}
 ?>
 <!DOCTYPE HTML>
 <html lang="fr">
@@ -34,6 +49,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/jpg" href="images/logo.jpg">
     <script src="js/modernizr-2.6.2.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>
 
@@ -797,16 +813,23 @@
 
                                     <form action="config/contact.php" method="POST">
                                         <div class="form-group">
-                                            <input type="text" class="form-control" name="nom" required placeholder="Nom">
+                                            <input type="text" class="form-control" name="p_name" required placeholder="Nom">
                                         </div>
                                         <div class="form-group">
-                                            <input type="email" class="form-control" name="email" required placeholder="Email">
+                                            <input type="email" class="form-control" name="p_email" required placeholder="Email">
                                         </div>
                                         <div class="form-group">
-                                            <input type="text" name="sujet" class="form-control" required placeholder="Sujet">
+                                            <input type="text" class="form-control" name="p_phone" placeholder="Tél">
                                         </div>
                                         <div class="form-group">
-                                            <textarea name="" id="message" name="message" cols="30" required rows="7" class="form-control" placeholder="Message"></textarea>
+                                            <input type="text" name="p_subject" class="form-control" required placeholder="Sujet">
+                                        </div>
+                                        <div class="form-group">
+                                            <textarea id="message" name="p_message" cols="30" required rows="7" class="form-control" placeholder="Message"></textarea>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="g-recaptcha" data-sitekey="6LcviAUhAAAAAEBFpMzDSmFS8AhYH6aWfd4NVCrM"></div>
+                                            <p> <?=$msg?> </p>
                                         </div>
                                         <div class="form-group">
                                             <input type="submit" class="btn btn-primary btn-send-message" value="Envoyer Message">
@@ -835,6 +858,11 @@
 <script src="js/jquery.countTo.js"></script>
 <script src="js/main.js"></script>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
+<!-- recaptcha -->
+<script>
+    function onSubmit(token) {
+        document.getElementById("demo-form").submit();
+    }
+</script>
 </body>
 </html>

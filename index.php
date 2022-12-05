@@ -795,7 +795,7 @@
 							<div class="row">
 								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
 
-                                    <form action="config/contact.php" method="POST">
+                                    <form action="" method="">
 										<div class="form-group">
 											<input type="text" class="form-control" name="nom" required placeholder="Nom">
 										</div>
